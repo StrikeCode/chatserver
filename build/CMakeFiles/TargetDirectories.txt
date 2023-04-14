@@ -1,0 +1,10 @@
+/home/jyhlinux/share/chat/build/CMakeFiles/edit_cache.dir
+/home/jyhlinux/share/chat/build/CMakeFiles/rebuild_cache.dir
+/home/jyhlinux/share/chat/build/src/CMakeFiles/edit_cache.dir
+/home/jyhlinux/share/chat/build/src/CMakeFiles/rebuild_cache.dir
+/home/jyhlinux/share/chat/build/src/server/CMakeFiles/ChatServer.dir
+/home/jyhlinux/share/chat/build/src/server/CMakeFiles/edit_cache.dir
+/home/jyhlinux/share/chat/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/jyhlinux/share/chat/build/src/client/CMakeFiles/ChatClient.dir
+/home/jyhlinux/share/chat/build/src/client/CMakeFiles/edit_cache.dir
+/home/jyhlinux/share/chat/build/src/client/CMakeFiles/rebuild_cache.dir
